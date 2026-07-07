@@ -6,6 +6,12 @@ The project enables natural voice interaction with the TurtleBot4 without requir
 
 ---
 
+## Demo
+Watch the demo on YouTube:
+https://youtu.be/lmuR5j7ijk4
+
+---
+
 ## Features
 
 - 🎤 Offline wake-word detection using **OpenWakeWord**
