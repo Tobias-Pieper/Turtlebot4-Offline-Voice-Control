@@ -1,6 +1,4 @@
-# Turtlebot4-Offline-Voice-Control
-
-# 🎙️ Offline Voice Control for TurtleBot4
+# Turtlebot4-Offline-Voice-Control 🎙️
 
 An offline speech-controlled interface for the **TurtleBot4** using **ROS2 Jazzy**, **OpenWakeWord**, **Whisper**, **Piper TTS**, and **OpenCV**.
 
